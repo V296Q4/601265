@@ -1,1 +1,1 @@
-puts "Hello Kelowna"
+puts "Hello Canada"
